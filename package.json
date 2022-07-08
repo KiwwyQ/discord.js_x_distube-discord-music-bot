@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ffmpeg-static": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm i tweetnacl && npm i global-tunnel-ng && npm i @discordjs/opus && npm i opusscript && npm i express && npm i distube@latest && bash start.sh",
+    "lost_pakages": "npm install git+https://github.com/kabirsingh2004/node-ytdl-core",
+    "npm_modules_i": "npm i tweetnacl && npm i global-tunnel-ng && npm i @discordjs/opus && npm i opusscript && npm i express && npm i distube@latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "lix",
+  "license": "MIT"
+}
